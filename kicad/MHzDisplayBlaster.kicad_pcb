@@ -5866,6 +5866,18 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "V1.1"
+		(at 146.05 41.313236 0)
+		(layer "B.SilkS")
+		(uuid "33cab101-b6c1-45cb-93b5-1eab9a9b8fe8")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
 	(gr_text "Gnd"
 		(at 148 74 90)
 		(layer "B.SilkS")
