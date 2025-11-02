@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"PinHeader_2x15_P2.54mm_Vertical";1;"Conn_02x15 DigitRHS";;;
+2;"J1";"PinHeader_2x15_P2.54mm_Vertical";1;"Conn_02x15 DigitLHS";;;
+3;"U1";"DA56-11CGKWA";1;"DC56-11GWA";;;
+4;"Q1";"TO-92_Inline";1;"2N7000";;;
+5;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"100";;;
+6;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03_Pin";;;
+7;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"1K";;;
+8;"J4";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+9;"R3";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"330";;;
+10;"U2";"SOIC-14_3.9x8.7mm_P1.27mm";1;"74HC04";;;
